@@ -1,6 +1,7 @@
 /*
 SQLyog 企业版 - MySQL GUI v7.14 
-MySQL - 5.6.16-log : Database - i_wenyiba_com
+MySQL - 5.6.16-log : Database - shiro
+数据添加，需要先执行tables.sql表
 *********************************************************************
 */
 
